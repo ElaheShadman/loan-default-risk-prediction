@@ -1,4 +1,4 @@
-# Loan Default Risk & Pricing — LendingClub Dataset
+# Loan Default Risk & Pricing, LendingClub Dataset
 
 **By Elahe, Ayush and Benjamin**
 
